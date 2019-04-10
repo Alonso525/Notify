@@ -8,7 +8,7 @@ body {
 }
 
 section {
-    padding: 50px 0;
+    padding: 80px 0;
 }
 
 h3 {
@@ -45,8 +45,9 @@ h3 {
 #home h3 {
     line-height: 1.5;
     padding: 25px 0;
-    margin-right: 80px;
+    text-align: center;
 	color:#fff;
+  background-color: rgba(42, 42, 42, 0.6);
 }
 
 #home ul {
@@ -76,6 +77,7 @@ h3 {
 
 .features-item {
     text-align: center;
+    align-items: center;
 }
 
 .features-item i {
@@ -128,7 +130,6 @@ h3 {
 }
 
 .social ul {
-    padding-left: 0;
     display: block;
 }
 
